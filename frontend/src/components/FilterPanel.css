@@ -3,7 +3,7 @@
   background: white;
   padding: 1.5rem;
   border-right: 1px solid var(--border);
-  height: calc(100vh - 80px); /* Adjust based on header height */
+  height: calc(100vh - 80px);
   overflow-y: auto;
   position: sticky;
   top: 0;
