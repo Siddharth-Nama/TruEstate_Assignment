@@ -1,5 +1,8 @@
 # TruEstate Retail Sales Management System
 
+## Live Application
+**[Click Here to Open App](https://tru-estate-assignment-livid.vercel.app/)**
+
 ## Overview
 Welcome to my submission for the **TruEstate SDE Intern Assignment**. I have engineered a high-performance **Retail Sales Management System** that transforms raw sales data into an actionable, interactive dashboard. 
 This project isn't just a basic CRUD app—it's a demonstration of scalable architecture, clean design patterns, and a focus on user experience. I built this to handle complex data operations (search, complex filtering, sorting) with ease, replicating the challenges faced in real-world production environments.
